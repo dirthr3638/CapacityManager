@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\bin\Debug\CapacityManager.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\bin\Debug\CapacityManager.exe
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\bin\Debug\CapacityManager.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.CapacityManager.resources
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.exe
+c:\users\administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.SettingForm.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.InputWindows.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.Help.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\CapacityManager\CapacityManager\obj\Debug\CapacityManager.CirmfirmDelete.resources
